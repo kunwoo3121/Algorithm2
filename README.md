@@ -13,3 +13,4 @@
 * [POLY](POLY.md)
 * [SNAIL](SNAIL.md)
 * [NUMB3RS](NUMB3RS.md)
+* [TICTACTOE](TICTACTOE.md)
