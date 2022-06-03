@@ -1,3 +1,3 @@
 # Algorithm2
 
-* [FESTIVAL] (FESTIVAL.md)
+* [FESTIVAL](FESTIVAL.md)
