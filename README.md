@@ -14,3 +14,4 @@
 * [SNAIL](SNAIL.md)
 * [NUMB3RS](NUMB3RS.md)
 * [TICTACTOE](TICTACTOE.md)
+* [KLIS](KLIS.md)
