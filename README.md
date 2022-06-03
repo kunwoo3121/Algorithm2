@@ -11,3 +11,4 @@
 * [BOGGLE](BOGGLE.md)
 * [ASYMTILING](ASYMTILING.md)
 * [POLY](POLY.md)
+* [SNAIL](SNAIL.md)
